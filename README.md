@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Mahajan</h1>
-<h2 align="center">I feel incredibly lucky to be able to pursue my passion for Backend development 👩‍💻 ,While also giving back to the community through open source contribution and community development. It is privilege to work with like-minded individuals who share my dedication to making the world a better place through technology.</h2>
+<h2 align="center">I consider myself extremely fortunate to have the opportunity to follow my passion for Backend development 👩‍💻. Additionally, I have the privilege of contributing to the community through open-source projects and community development. Collaborating with fellow enthusiasts who share my commitment to using technology for the betterment of the world is truly an honor.</h2>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahajanswatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="mahajanswatgithub" /> </p>
